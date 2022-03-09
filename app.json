@@ -1,5 +1,5 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
+  "name": "KURO VAMP",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/kurovampbot/LEGENDBOT/",
+  "website": "https://github.com/kuvampbot/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
