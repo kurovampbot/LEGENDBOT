@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
+  "repository": "https://github.com/kurovampbot/LegendBot/",
+  "website": "https://github.com/kurovampbot/LegendBot/",
   "success_url": "https://t.me/Legend_K_Userbot",
   "env": {
     "ENV": {
